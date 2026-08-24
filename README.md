@@ -4,7 +4,7 @@
 
 ## About me
 
-- 💻 Learning **Java** & **Python**
+- 💻 Currently learning **Java** & **Python**
 - 🌱 Exploring **Git**, **GitHub**, and programming fundamentals
 - 🚀 Future interests: **Data Analytics · Software Engineering · AI**
 - 📚 Building university projects and personal coding projects
