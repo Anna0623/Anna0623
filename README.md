@@ -1,4 +1,4 @@
-## My Introduction 👋
+## Hi there, I'm Anna 👋
 
 🎓 Computer Science student at the University of Otago
 
@@ -12,7 +12,7 @@
 ### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,git,github&perline=4" />
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,idea,obsidian&perline=7" />
 </p>
 
 ### GitHub Stats
