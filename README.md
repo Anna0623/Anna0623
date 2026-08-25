@@ -14,4 +14,4 @@
 [![My Skills](https://skillicons.dev/icons?i=java,python,git,github)](https://skillicons.dev)
 
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Anna0623&show_icons=true&theme=default)
+![Anna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anna0623&show_icons=true&theme=tokyonight&hide_border=true)
